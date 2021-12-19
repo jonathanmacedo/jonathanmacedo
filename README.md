@@ -32,7 +32,6 @@ Here are some ideas to get you started:
  
  ## Tecnologias que estou estudando:
  <div style="display: inline_block">
-  <img align="center" alt="John-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="John-ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="John-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
  </div>
